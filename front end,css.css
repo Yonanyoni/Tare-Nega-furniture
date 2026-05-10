@@ -3,7 +3,7 @@ body {
     font-family: 'Playfair Display', serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #181818 0%, #232526 100%);
+    background: blue;
     color: #f5f5f5;
     min-height: 100vh;
 }
